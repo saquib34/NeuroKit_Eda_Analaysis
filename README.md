@@ -18,9 +18,8 @@
 # - [License](#license)
 
 # Installation
-# To install the required dependencies, use:
-```bash
-pip install -r requirements.txt
+ To install the required dependencies, use:
+ pip install -r requirements.txt
 
 
 # Modules
