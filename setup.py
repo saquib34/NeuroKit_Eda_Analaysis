@@ -11,8 +11,14 @@ setup(
         'neurokit2',
         'scipy'
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Mohammad Saquib Daiyan',
+    author_email='shadmanshahin6@gmail.com',
     description='A library for processing and analyzing EDA signals.',
-    url='https://github.com/yourusername/eda_analysis',
+    url='https://github.com/saquib34/NeuroKit_Eda_Analaysis',
+    classifiers=[
+'Programming Language :: Python :: 3',
+'License :: OSI Approved :: MIT License',
+'Operating System :: OS Independent',
+],
+python_requires='>=3.11',
 )
